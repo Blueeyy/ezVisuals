@@ -7,14 +7,5 @@
       "$ignoreUnknownInstances": true,
       "$path": "lib"
     },
-    "StarterPlayer": {
-      "$className": "StarterPlayer",
-      "StarterPlayerScripts": {
-        "$className": "StarterPlayerScripts",
-        "$ignoreUnknownInstances": true,
-        "$path": "testing"
-      },
-      "$ignoreUnknownInstances": true
-    }
   }
 }
